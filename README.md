@@ -3,9 +3,7 @@
 <h2 align="center">I’m currently learning NLP, PYTHON and TRANSFORMERS</h2>
 </br>
 
-<div align="center">
-  <img src="[https://giphy.com](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXg2c3N3cHZsbnVxMWN0ZW45aWFiZ252dmhuZDdjc28zaGc5MHZ6diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/v2RXvkmxalEbquTbA0/giphy.gif)" alt="Kaneki" />
-</div>
+![kaneki]([https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXg2c3N3cHZsbnVxMWN0ZW45aWFiZ252dmhuZDdjc28zaGc5MHZ6diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/v2RXvkmxalEbquTbA0/giphy.gif))
 
 
 <h3 align="center">Languages and Tools:</h3>
