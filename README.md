@@ -1,7 +1,8 @@
 <h1 align="center">I'm Tazska</h1>
-- I’m currently learning **NLP, PYTHON and TRANSFORMERS
-
-![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
+</br>
+<h2>I’m currently learning **NLP, PYTHON and TRANSFORMERS</h2>
+</br>
+(https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXg2c3N3cHZsbnVxMWN0ZW45aWFiZ252dmhuZDdjc28zaGc5MHZ6diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/v2RXvkmxalEbquTbA0/giphy.gif)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
