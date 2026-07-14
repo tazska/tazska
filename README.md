@@ -1,7 +1,7 @@
 <h1 align="center">I'm Tazska</h1>
-- I’m currently learning **NLP, PYTHON and TRANSFORMERS**
+- I’m currently learning **NLP, PYTHON and TRANSFORMERS
 
-- 📫 reach me **leyderfigueroa06@gmail.com**
+![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
